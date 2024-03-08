@@ -3,7 +3,7 @@ This is my work on the short courses on https://www.deeplearning.ai/short-course
 
 # Table of content
 ## Understanding and Applying Text Embeddings
-This course present intuition on embedding. The course has 6 lecture each very focus on developing intution and hand-on experince using VertexAI client.
+The course has 6 lecture each very focus on developing intution and hand-on experince using VertexAI client.
 - Create embeddings using `textembedding-gecko@001`
 - Compute Cosine Similarity using the package on `sklearn`
 - Load stackoverflow question/answer/tags from `BigQuery`
