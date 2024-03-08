@@ -73,7 +73,7 @@ A good rule of thump is starting with a temperature of 0.2. Below there is graph
 **Top k:** Sample from tokens with the top k probabilities.
 
 - It works well when the k values are even.
-- 
+- May give very odd results when the probabilities are very skew and we pick a low probability answer.
 
 **Top p**: Sample from minimum set of tokens whose cumulative probability is greater or equal to P
 
