@@ -15,13 +15,23 @@ The course has 6 lecture each very focus on developing intution and hand-on expe
     - Improve by creating index using `ScaNN`. Then find clossest embedding to the question.
     - Use LLM to decide use relevant information or provide not answer if closest embedding is not applicable.
 
-## Building Application with VBector Databases
+## Building Application with Vector Databases
 The course has 6 lecture each focus on building simple applications using a vector database. The course in general follow the following structure
 - Load Data
 - Create embeddings and load them into Pinecone the Vector Database for this course
 - Do some business logic if needed for the particular application
 - Get query and obtain closest embedding to the query
 - Answer directly the query or pass the query through a LLM first.
+
+## Vector Databases - from Embeddings to Applications
+The course has 6 lecture, each lecture explain and show important topic for embedding. The final goal of the application is to build a Multilingual RAG Search using the different topics learned throughout the course. The covered are
+- Basics of Embeddings
+- kNN
+- Approximate kNN
+- Objects Vectors
+- Dense, Sparse, and Hybrid Search
+- RAG
+- Build a Multilingual RAG Search
 
 # Disclaimer
 I recognize the time people spend on building intuition, understanding new concepts and hand-on material. The material uploaded here are only for reference.
